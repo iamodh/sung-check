@@ -1,0 +1,13 @@
+{
+  "name": "성책",
+  "short_name": "성책",
+  "description": "천주교 본당 방문 콜렉션",
+  "lang": "ko",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
